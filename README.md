@@ -28,9 +28,13 @@ Proyek ini mengimplementasikan seluruh persyaratan sesuai panduan tugas:
 ## Tampilan Aplikasi
 | Halaman Registrasi | Dialog Konfirmasi | Error Validasi |
 |:---:|:---:|:---:|
-| [Lampirkan Screenshot 1] | [Lampirkan Screenshot 2] | [Lampirkan Screenshot 3] |
+<img width="415" height="918" alt="Screenshot 2026-03-24 112658" src="https://github.com/user-attachments/assets/24449118-95dc-4f72-aa2b-eabe37b7bb63" />
+<img width="413" height="920" alt="Screenshot 2026-03-24 112708" src="https://github.com/user-attachments/assets/b30b43b4-6153-449c-ab5c-2c1f51ea022e" />
+<img width="412" height="898" alt="Screenshot 2026-03-24 112724" src="https://github.com/user-attachments/assets/35c1ce26-aa36-4509-9c6a-28ed16047817" />
 
-## Cara Instalasi
+
+## Cara Instalasi![Uploading Screenshot 2026-03-24 112724.png…]()
+
 1. Clone repositori ini:
    ```bash
    git clone [https://github.com/username-anda/elegant-registration-app.git](https://github.com/username-anda/elegant-registration-app.git)
