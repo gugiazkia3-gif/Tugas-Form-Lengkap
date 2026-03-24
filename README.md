@@ -30,6 +30,7 @@ Proyek ini mengimplementasikan seluruh persyaratan sesuai panduan tugas:
 |:---:|:---:|:---:|
 <img width="413" height="920" alt="Screenshot 2026-03-24 112708" src="https://github.com/user-attachments/assets/b30b43b4-6153-449c-ab5c-2c1f51ea022e" />
 <img width="412" height="898" alt="Screenshot 2026-03-24 112724" src="https://github.com/user-attachments/assets/35c1ce26-aa36-4509-9c6a-28ed16047817" />
+<img width="419" height="921" alt="Screenshot 2026-03-24 124909" src="https://github.com/user-attachments/assets/ee748add-4cb3-49cb-b4ef-bb1c378ad89a" />
 
 
 ## Cara Instalasi
